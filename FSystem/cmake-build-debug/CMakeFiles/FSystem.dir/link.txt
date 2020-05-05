@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/FSystem.dir/main.cpp.o CMakeFiles/FSystem.dir/Superblok.cpp.o CMakeFiles/FSystem.dir/Inode.cpp.o CMakeFiles/FSystem.dir/Memory.cpp.o CMakeFiles/FSystem.dir/Filesystem.cpp.o CMakeFiles/FSystem.dir/Bitmap.cpp.o  -o FSystem -lstdc++fs 

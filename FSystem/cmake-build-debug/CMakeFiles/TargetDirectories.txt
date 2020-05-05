@@ -1,0 +1,3 @@
+/home/halim/Dokumenta/Fakultet/OOS/PROJEKTNI/FSystem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/halim/Dokumenta/Fakultet/OOS/PROJEKTNI/FSystem/cmake-build-debug/CMakeFiles/FSystem.dir
+/home/halim/Dokumenta/Fakultet/OOS/PROJEKTNI/FSystem/cmake-build-debug/CMakeFiles/edit_cache.dir

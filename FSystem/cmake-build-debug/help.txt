@@ -1,0 +1,46 @@
+Uputstva za korištenja opcija:
+
+mkdir path-to-file file-name
+! Funkcija za kreiranje nove datoteke file-name na putanji path-to-file
+
+create path-to-file file-name
+! Funkcija za kreiranje novog tekstualnog fajla na putanji path-to-file
+
+ls path c
+! Ispis svih datoteka i fajlova na adresi path
+
+put path c
+! Upload fajla ili datoteke sa putanje path na udaljeni server
+
+get path-to-file path-to-copy
+! Download fajla sa putanje path-to-file u direktorijum path-to-copy
+
+cp path-to-copy path-to-file
+! Kopiranje datoteke path-to-file na putanju path-to-copy
+
+mv path-to-copy path-to-file
+! Pomjera dokument sa putanje path-to-file na putanju path-to-move
+
+rename path-to-file new-name
+! Opcija za preimenovanje putanje path-to-file
+
+echo path-to-file text
+! Upisivanje text u datoteku path-to-file
+
+cat path-to-file c
+! Ispisivanje sadržaja datoteke sa putanje path-to-file na izlaz
+
+rm path-to-file -r c
+! Brisanje datoteke (opcija -r) ili fajla sa putanje path-to-file sa sistema
+
+stat path-to-file c
+! Ispisivanje statistike o fajlu na putanji path-to-file
+
+find file-name
+! Pronalazi i ispisuje putanju dokumenta file-name ako postoji na sistemu
+
+free c c
+! Ispisuje podatke o memorijskom prostoru
+
+exit c c
+! Izlaz iz operativnog sistema
